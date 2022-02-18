@@ -1,3 +1,3 @@
 # NeuralDecoders
 
-* For data, refer to the fored project : [https://github.com/Hteja/neurallatents.github.io]https://github.com/Hteja/neurallatents.github.io
+* For data and example notebooks, refer to the forked project : [Notebooks](https://github.com/Hteja/neurallatents.github.io/tree/master/notebooks)
